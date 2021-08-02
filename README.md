@@ -11,4 +11,4 @@ number extractor is a little script developed on a whim to help a friend, I thou
 - Launch script : `python3 main.py list.txt`
 
 ## Credits
-[Lochness](https://github.com/jesaispasdev) - he give me the idea
+- [Lochness](https://github.com/jesaispasdev) - he give me the idea
